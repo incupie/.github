@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://incupie.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/images/incupie_dark.svg">
@@ -11,7 +11,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@incupie">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/icons/yt_dark.svg">
