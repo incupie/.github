@@ -6,9 +6,12 @@
     </picture>
   </a>
 </p>
+
+## Mission
 <b>To build transformative AI systems that empower organizations and individuals to work smarter and faster than imagination.</b>
 <br>
-<br>
+
+## Vision
 To be the driving force behind a new era of work, where Incupie seamlessly enhances human potential, unlocks innovation at scale, and redefines productivity across industries.
 <hr>
 
