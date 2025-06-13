@@ -6,7 +6,7 @@
     </picture>
   </a>
 </p>
-
+<b>To build transformative AI systems that empower organizations and individuals to work smarter and faster than imagination.</b>
 <hr>
 
 
