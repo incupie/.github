@@ -13,10 +13,8 @@
 
 ## Vision
 To be the driving force behind a new era of work, where Incupie seamlessly enhances human potential, unlocks innovation at scale, and redefines productivity across industries.
-<hr>
 
-
-
+## Join us on:
 <p align="left">
   <a href="https://www.youtube.com/@incupie">
     <picture>
