@@ -23,6 +23,12 @@
       <img alt="incupie" src="../assets/icons/x_light.svg" height="40px">
     </picture>
   </a>
+  <a href="https://huggingface.co/incupie">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="../assets/icons/hf_dark.svg">
+        <img alt="incupie" src="../assets/icons/hf_light.svg" height="40px">
+      </picture>
+    </a>
   <a href="https://www.linkedin.com/company/incupie">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="../assets/icons/linkedin_dark.svg">
