@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center;">
-  <img src="../assets/images/incupie_adaptive.svg" alt="Incupie" style="width: 100%; max-width: none;">
+  <img src="../assets/images/incupie_style.svg" alt="Incupie" style="width: 100%; max-width: none;">
 </div>
 
 
